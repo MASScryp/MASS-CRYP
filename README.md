@@ -1,82 +1,18 @@
-Bitcoin Core integration/staging tree
+MASS Cryp is future of Advertisement world Digitization
 =====================================
+What Is MASS Cryp?
 
-[![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
+MASS Cryp (MASS) project is completely based on “Social Media, E-commerce & Video Based Marketing” on one platform which is unique by its own features named as “MASSCONNECT”. It will not only help people to communicate but also help them to develop their own business which will be directly between buyer’s and seller’s 
+MASS Cryp will play an important roll in MASSCONNECT as digital currency which will have a special unique value and featurem of it own.
+The organization offers B2B solutions to business customers as their goals and areas of expertise are moving ever more towards the direction of the bright new world of blockchain technology and MASSTUBE will be one of Blockchain based B2B solution platform with will not only support Video Marketing but Social Media and E-Commerce with the help on MASS Coin backup.
 
-https://bitcoincore.org
+“The company is born with the goal of revolutionizing people's experience with blockchain technology in order to bring society closer to the many solutions that are emerging from this innovation.”
 
-What is Bitcoin?
-----------------
+Globalization  we will provided a market expansion and  will also  bring greater competitiveness among organizations, demanding more quality in the products and services offered with the help of MASS Cryp.
 
-Bitcoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Bitcoin Core is the name of open source
-software which enables the use of this currency.
 
-For more information, as well as an immediately useable, binary version of
-the Bitcoin Core software, see https://bitcoin.org/en/download, or read the
-[original whitepaper](https://bitcoincore.org/bitcoin.pdf).
+Mission of  MASS
+=====================================
+“Develop products and services that add value to society in a sustainable way with social and environmental responsibility. Influence positively the business environment through our technologies, making it more effective and flexible according to the requirements of each market niches.”
 
-License
--------
-
-Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
-information or see https://opensource.org/licenses/MIT.
-
-Development Process
--------------------
-
-The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/bitcoin/bitcoin/tags) are created
-regularly to indicate new official, stable release versions of Bitcoin Core.
-
-The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-The developer [mailing list](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
-should be used to discuss complicated or controversial changes before working
-on a patch set.
-
-Developer IRC can be found on Freenode at #bitcoin-core-dev.
-
-Testing
--------
-
-Testing and code review is the bottleneck for development; we get more pull
-requests than we can review and test on short notice. Please be patient and help out by testing
-other people's pull requests, and remember this is a security-critical project where any mistake might cost people
-lots of money.
-
-### Automated Testing
-
-Developers are strongly encouraged to write [unit tests](src/test/README.md) for new code, and to
-submit new unit tests for old code. Unit tests can be compiled and run
-(assuming they weren't disabled in configure) with: `make check`. Further details on running
-and extending unit tests can be found in [/src/test/README.md](/src/test/README.md).
-
-There are also [regression and integration tests](/test), written
-in Python, that are run automatically on the build server.
-These tests can be run (if the [test dependencies](/test) are installed) with: `test/functional/test_runner.py`
-
-The Travis CI system makes sure that every pull request is built for Windows, Linux, and OS X, and that unit/sanity tests are run automatically.
-
-### Manual Quality Assurance (QA) Testing
-
-Changes should be tested by somebody other than the developer who wrote the
-code. This is especially important for large or high-risk changes. It is useful
-to add a test plan to the pull request description if testing the changes is
-not straightforward.
-
-Translations
-------------
-
-Changes to translations as well as new translations can be submitted to
-[Bitcoin Core's Transifex page](https://www.transifex.com/projects/p/bitcoin/).
-
-Translations are periodically pulled from Transifex and merged into the git repository. See the
-[translation process](doc/translation_process.md) for details on how this works.
-
-**Important**: We do not accept translation changes as GitHub pull requests because the next
-pull from Transifex would automatically overwrite them again.
-
-Translators should also subscribe to the [mailing list](https://groups.google.com/forum/#!forum/bitcoin-translators).
+We are focused on creating a network of projects that represent fast, flexible and cost-effective solutions for corporate customers, guided by the contribution of Blockchain Technology applications.
